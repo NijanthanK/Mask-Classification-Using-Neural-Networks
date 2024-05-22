@@ -1,7 +1,10 @@
-Case Study: Mask identification at bank
+# Case Study
+Mask identification at bank
 
 
-About the dataset
+![image](https://github.com/NijanthanK/Mask-Classification-Using-Neural-Networks/assets/154366232/3dff2a7b-ee12-456e-af66-efec5fc46950)
+
+# About the dataset
 Data Set contains two folders named as Train and Test. Within each of these fol
 ders there are 2 different folders WithMask and WithoutMask. WithMask folder 
 contains grayscale images of faces with mask. WithoutMask folder contains gra
