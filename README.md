@@ -49,3 +49,43 @@ The ultimate goal is to develop a mask detection algorithm that enhances the
 security and efficiency of the bank's facial recognition system, adapting to the 
 new normal of mask-wearing in public spaces while maintaining high 
 performance and reliability
+
+# APPROCH TO THE SOLUTION
+IMPORT REQUIRED LIBRARIES
+
+READ IMAGES USING IMAGE GENERATOR
+
+VISUALIZE THE IMAGES
+
+RESCALE THE IMAGES BY NORMALIZING
+
+CREATING MODEL ARCHITEHTURE USING VGG19
+
+COMPILE THE MODEL
+
+CHECK OVERFITTING
+
+APPLY DROPOUT,
+
+FIT THE MODEL
+
+PLOT ACUURACY AND LOSS
+
+MODEL SUMMARY
+
+EVALUAVATION METRICS
+
+PREDICTION ON TEST IMAGES
+
+#  Conclusion
+
+1. **Introduction**: Real-time mask detection using CNNs addresses the bank's facial recognition challenges during COVID-19.
+2. **CNN Architectures**: Model inspired by VGG16, VGG19, or Xception for high accuracy and efficiency.
+3. **Security & Efficiency**: Enhances entrance authentication by detecting masked individuals accurately.
+4. **False Rejections**: Mitigates false rejections caused by face coverings.
+5. **Performance Metrics**: Focus on accuracy, precision, and recall, aiming for over 95% effectiveness.
+6. **Practical Evaluation**: Tested under various conditions to ensure real-world applicability.
+7. **Integration**: Seamlessly integrates with the bank's existing facial recognition system.
+8. **Safety Commitment**: Demonstrates the bank's dedication to safety and security during the pandemic.
+9. **Continuous Improvement**: Regular evaluations to maintain high performance and operational efficiency.
+10. **Adaptability**: Aligns with new mask-wearing norms and regulatory requirements.
